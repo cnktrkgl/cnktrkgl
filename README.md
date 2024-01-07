@@ -1,5 +1,5 @@
 <div align=center>
-<img width="150" height="200" align="right" float="left" src="https://github.com/cnktrkgl/cnktrkgl/blob/main/images/ct_2024.jpeg">
+<img width="250" height="400" align="right" float="left" src="https://github.com/cnktrkgl/cnktrkgl/blob/main/images/ct_2024.jpeg">
 <h2>Hi World Planet I'm Cenk Türkoğlu 👋</h2>
 <p>As a new graduate, I'm trying to become a Front-End Developer.<br>
 Video games, technology, cinema, defense industry, winter sports, fitness, scouting, web design and hardware.</p>
