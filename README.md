@@ -1,4 +1,4 @@
-<div>
+<div align=center>
 <img width="250" height="350" align="left" float="left" src="https://github.com/cnktrkgl/cnktrkgl/blob/main/images/ct_2024.jpeg">
 <h2>Hi World Planet I'm Cenk Türkoğlu 👋</h2>
 <p>As a new graduate, I'm trying to become a Front-End Developer.<br>
