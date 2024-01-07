@@ -2,7 +2,6 @@
 <img width="250" height="350" align="left" float="left" src="https://github.com/cnktrkgl/cnktrkgl/blob/main/images/ct_2024.jpeg">
 <p>Hi World Planet I'm <b>Cenk Türkoğlu</b> 👋<br><br>
 As a new graduate, I'm trying to become a Front-End Developer.</p>
-<br>
 <p>Video games, technology, cinema, defense industry, winter sports, fitness, scouting, web design and hardware.</p>
 </div>
 
