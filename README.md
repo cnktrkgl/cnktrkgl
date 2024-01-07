@@ -1,6 +1,6 @@
 <div align="center">
-<img width="250" height="350" align="center" src="https://github.com/cnktrkgl/cnktrkgl/blob/main/images/ct_2024.jpeg">
-<p float="left">## Hi World Planet I'm **Cenk Türkoğlu** 👋<br>
+<img width="250" height="350" align="left" float="left" src="https://github.com/cnktrkgl/cnktrkgl/blob/main/images/ct_2024.jpeg">
+<p>Hi World Planet I'm **Cenk Türkoğlu** 👋<br>
 As a new graduate, I'm trying to become a Front-End Developer.</p>
 </div>
 
