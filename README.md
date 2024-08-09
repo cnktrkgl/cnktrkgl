@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">HTML, CSS, JS, TS, SQL, **Bootstrap**, **TailwindCSS**, **ReactJS**.</p>
+<p align="left">HTML, CSS, JS, TS, SQL, <b>Bootstrap</b>, <b>TailwindCSS</b>, <b>ReactJS</b>.</p>
 <!--
 **cnktrkgl/cnktrkgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
