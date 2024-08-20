@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Cenk Türkoğlu</h1>
-<h3 align="center">Jr. Frontend Developer</h3>
+<h3 align="center">Jr. Frontend Developer | Jr. UI/UX Designer</h3>
 
-- 🌱 I’m currently learning **Frontend Frameworks.**
+- 🌱 I’m currently learning **Frontend Frameworks and UI/UX Design.**
 
 - ⚡ Fun fact **Fitness, Videogame.**
 
@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">HTML, CSS, JS, TS, SQL, <b>Bootstrap</b>, <b>TailwindCSS</b>, <b>ReactJS</b>.</p>
+<p align="left">HTML, CSS, JS, TS, SQL, <b>Bootstrap</b>, <b>TailwindCSS</b>, <b>ReactJS</b>, <b>Canva</b>, <b>Figma</b>.</p>
 <!--
 **cnktrkgl/cnktrkgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
