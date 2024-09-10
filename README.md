@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning **Frontend Frameworks.**
 
 - ⚡ Fun fact **Fitness, Videogame.**
+
+- 📫 How to reach me **cenktrkgl@gmail.com**.
 <br>
 
 
