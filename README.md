@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Cenk Türkoğlu</h1>
-<h3 align="center">Jr. Frontend Developer | Jr. UI/UX Designer</h3>
+<h3 align="center">Jr. Frontend Developer</h3>
 
-- 🌱 I’m currently learning **Frontend Frameworks and UI/UX Design.**
+- 🌱 I’m currently learning **Frontend Frameworks.**
 
 - ⚡ Fun fact **Fitness, Videogame.**
 
