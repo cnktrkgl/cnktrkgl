@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋, I'm Cenk Türkoğlu<br><br>Jr. Frontend Developer</h1>
+<h1 align="center">Hello World 👋, I'm Cenk Türkoğlu<br><br>Frontend Developer</h1>
 <h3 align="center"></h3>
 
 - 🌱 I’m currently learning **Frontend Frameworks.**
