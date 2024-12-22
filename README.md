@@ -1,7 +1,7 @@
-<h1 align="center">Hello World 👋, I'm Cenk Türkoğlu<br><br>Frontend Developer</h1>
+<h1 align="center">Hello World 👋, I'm Cenk Türkoğlu<br><br>Web Designer</h1>
 <h3 align="center"></h3>
 
-- 🌱 I’m currently learning **Frontend Frameworks.**
+- 🌱 I’m currently learning **Life.**
 
 - ⚡ Fun fact **Fitness, Videogame.**
 
