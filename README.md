@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋, I'm Cenk Türkoğlu<br><br>Web Designer</h1>
+<h1 align="center">Hello World 👋, I'm Cenk Türkoğlu<br><br>Full-Time Student</h1>
 <h3 align="center"></h3>
 
 - 🌱 I’m currently learning **Life.**
