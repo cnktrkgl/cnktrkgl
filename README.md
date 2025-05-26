@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Life.**
 
-- ⚡ Fun fact **Fitness, Videogame.**
+- ⚡ Fun fact **Fitness.**
 
 - 📫 How to reach me **cenktrkgl@gmail.com**.
 <br>
