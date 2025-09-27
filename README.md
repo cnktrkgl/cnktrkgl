@@ -5,7 +5,10 @@
 
 - ⚡ Fun fact **Fitness.**
 
+- 😎 **Cool kids never die.**
+
 - 📫 How to reach me **cenktrkgl@gmail.com**.
+
 <br>
 
 
